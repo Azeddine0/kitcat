@@ -241,7 +241,7 @@ const string yarnBall[3] = {
     "\\___/"
 };
 
-// ASCII Art for Title (updated with your custom art)
+// ASCII Art for Title
 const string titleArt[9] = {
     ".--.   .--. .-./`) ,---------.   _______      ____   ,---------.  ",
     "|  | _/  /  \\ .-.')\\          \\ /   __  \\   .'  __ `.\\          \\ ",
